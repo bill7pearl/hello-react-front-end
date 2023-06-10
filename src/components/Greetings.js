@@ -14,7 +14,7 @@ function Greeting() {
 
   return (
     <section>
-      <h1>Random Greeting</h1>
+      <h1>A random Greeting</h1>
       <h2>{greeting}</h2>
       <Link to="/">
         <button type="button">Back to Home</button>
