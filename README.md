@@ -43,7 +43,6 @@ You can find the backend repository at [hello-rails-back-end](https://github.com
 <summary>Linter</summary>
   <ul>
     <li>Eslint</li>
-    <li>Stylint</li>
   </ul>
 </details>
 
