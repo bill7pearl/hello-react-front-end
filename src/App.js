@@ -5,10 +5,10 @@ import Greetings from './components/Greetings';
 
 function App() {
   return (
-     <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/greeting" element={<Greetings />} />
-     </Routes>
+    <Routes>
+      <Route path="/" element={<Home />} />
+      <Route path="/greeting" element={<Greetings />} />
+    </Routes>
   );
 }
 
