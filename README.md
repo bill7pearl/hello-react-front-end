@@ -26,7 +26,7 @@
 
 ## Backend Repository
 
-You can find the backend repository at [hello-rails-back-end](https://github.com/bill7pearl/hello-rails-back-end).
+You can find the backend repository at [hello-rails-back-end](https://github.com/bill7pearl/hello-rails-backend).
 
 ### Tech Stack <a name="tech-stack"></a>
 
